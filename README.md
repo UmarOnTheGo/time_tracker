@@ -34,7 +34,7 @@ A **Flutter-based time management app** that helps you track time spent on your 
 
 ## 📸 Screenshots
 
-|      Home Screen      | Manage Categories | By Tag / Category Summary |
+|      Home Screen      | Manage Projects | Project Time Consumption |
 |-----------------------|-------------------|----------------------------|
 | ![screen1](assets/screenshots/home-entries.png) | ![screen2](assets/screenshots/project-management.png) | ![screen3](assets/screenshots/home-entries-group.png) |
 
